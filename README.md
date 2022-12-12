@@ -19,4 +19,5 @@ https://docs.google.com/document/d/1s0gzJGPYONeas_Kug5tYbQUe-Ww1HG0GFBJLgSN7chk/
 
 ## Protótipo do site 
 https://fherexe.github.io/ViraPapel/                                                                                                                                     ##                                                                                                                                                                       CCGVXGVXGVVH                           
-CCCGVGVGVGBHBHBH
+## Slide 
+https://www.canva.com/design/DAFULsBS5Ng/ja0ni9q8EFlwZk9ltuz3Ng/edit?utm_content=DAFULsBS5Ng&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
