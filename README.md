@@ -13,8 +13,9 @@ Descrever os 5 passos para elaboração do projeto de inovação. Nesse contexto
 - 4º Passo: Avaliar o projeto de inovação, coletando e analisando os feedbacks;
 - 5º Passo: Apresentar do projeto na feira de inovação 🚀
 
-## Pitch
+## Descrição do projeto 
 
-Descrição do Pitch (quem vai falar o que na apresentação, ordem da apresentação etc). Nesse sentido, um vídeo de Pitch pode ser criado e disponibilizado aqui (através de um link), facilitando o entendimento/compartilhamento do seu projeto de inovação. 
+https://docs.google.com/document/d/1s0gzJGPYONeas_Kug5tYbQUe-Ww1HG0GFBJLgSN7chk/edit?usp=drivesdk
 
-Por fim, links de slides e materiais complementares (que podem apoiar o entendimento do projeto de inovação) também podem ser disponibilizados nesta seção.
+## Protótipo do site 
+https://fherexe.github.io/ViraPapel/                                                                                                                                                                                                                                                                                                                                       
