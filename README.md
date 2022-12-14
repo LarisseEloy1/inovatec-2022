@@ -14,5 +14,4 @@ Marketing:Joana Angélica Franco Oliveira, Larisse de Fátima Eloy, Vilma Lassal
 
 
 ## Protótipo do site 
-                                                                                                                                                                                                sharebutton
-https://fherexe.github.io/ViraPapel/ 
+                                                                                                                                                                                               
